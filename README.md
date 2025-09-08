@@ -1,6 +1,6 @@
 # PCO: Protein Crystallizability Prediction
 
-This repository contains code, datasets, and models for predicting protein crystallizability from amino acid sequences. The workflow integrates **NetSurfP-3.0** for structural feature extraction and an **XGBoost** classifier for crystallization prediction.
+This repository contains code, datasets, and models for predicting protein crystallizability from its amino acid sequence.
 
 ---
 
@@ -19,6 +19,8 @@ conda activate pco
 ```bash
 python main.py -i input_file -o output_directory
 ```
+---
+
 ## If you wish to train the classifier yourself, you can do so:
 
 1. Download the .csv files from https://zenodo.org/records/17074480 and put them in `./data` directory

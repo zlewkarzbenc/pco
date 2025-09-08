@@ -7,7 +7,7 @@ This repository contains code, datasets, and models for predicting protein cryst
 ## Installation
 
 ### 1. Install NetSurfP-3.0
-Download the standalone package of [NetSurfP-3.0](https://services.healthtech.dtu.dk/services/NetSurfP-3.0/) and unzip it directly inside this repository.
+Download the standalone package of [NetSurfP-3.0]([https://services.healthtech.dtu.dk/services/NetSurfP-3.0/](https://services.healthtech.dtu.dk/cgi-bin/sw_request?software=netsurfp&version=3.0&packageversion=3.0&platform=Linux)) and unzip it directly inside this repository.
 
 ### 2. Set up the conda environment
 

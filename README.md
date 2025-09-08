@@ -1,6 +1,6 @@
-# PCO: Protein Crystallizability Prediction
+# PCO: the Protein Crystallization Oracle
 
-This repository contains code, datasets, and models for predicting protein crystallizability from its amino acid sequence.
+This repository contains code for predicting protein crystallizability from its amino acid sequence.
 
 ---
 
